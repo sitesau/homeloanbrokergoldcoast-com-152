@@ -1,0 +1,22 @@
+{
+  "wheel_id": 583,
+  "structure": "umbrella",
+  "slug": "homeloanbrokergoldcoast-com-152",
+  "project": "home-loan-brokers-gold-coast-adae2fb47c50e56300ce967830795d1919",
+  "parent_t1_ref": "homeloanbrokergoldcoast.com-008",
+  "node_role": "buffer",
+  "money_target": "homeloanbrokergoldcoast.com.au",
+  "primary_kw": "home loan brokers gold coast",
+  "intended_url": "https://sitesau.github.io/homeloanbrokergoldcoast-com-152/",
+  "tier": "T2",
+  "writeback_nonce": "9c4c390c1cf2ee46",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/home-loan-brokers-gold-coast-008/",
+      "anchor": "this overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
